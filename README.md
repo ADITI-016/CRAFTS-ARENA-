@@ -47,9 +47,14 @@ This website was developed as a personal project to showcase my handmade craft p
 The current version of Craftssarena serves as a foundational platform with significant potential for further development. Future plans include:
 
 **E-commerce Functionality:** Implementing a complete shopping cart and checkout process to facilitate online purchases.
+
 **Backend Integration:** Adding a backend system for managing products, orders, and customer data.
+
 **SEO Optimization:** Enhancing search engine optimization to increase organic traffic.
+
 **User Accounts:** Allowing customers to create accounts, track orders, and save preferences.
+
 **Payment Gateway Integration:** Enabling secure online payments through various payment gateways.
+
 **Marketing Tools:** Incorporating email marketing and promotional tools to engage customers and drive sales.
 Overall, this project showcases a comprehensive approach to building a functional and aesthetically pleasing e-commerce website using HTML and CSS, tailored for selling handmade crafts.
